@@ -1,6 +1,6 @@
 # LeetCode DSA Solutions
 
-This repository contains my solutions to Data Structures and Algorithms problems from LeetCode.
+This repository contains my solutions to Data Structures and Algorithms problems solved on Leetcode using python.
 
 ## Topics Covered
 
@@ -12,6 +12,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Dynamic Programming
 - Recursion
 - Backtracking
+- Binary Search
+- Sorting
+- Stack & Queue
 
 ## Languages
 
@@ -19,4 +22,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Goal
 
-Consistent problem solving and interview preparation for Software Engineering roles.
+Consistently improve problem - solving skills and strengthen foundations in Data Structures and Algorithms for Software Engineering roles.
+
+## Progress
+- Total Problems Solved:
+- Platform: Leetcode
+- Language: Python
