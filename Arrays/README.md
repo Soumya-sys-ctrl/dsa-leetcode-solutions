@@ -1,4 +1,4 @@
-# Arrays Problems# Arrays
+# Arrays
 
 This directory contains my solutions to Array-based problems from LeetCode.
 
