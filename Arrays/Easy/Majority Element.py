@@ -3,7 +3,7 @@ Problem: Majority Element
 Difficulty: Easy
 
 Approach:
-- Used Hashing.
+- Used Boyer-Moore Voting Algorithm.
 
 Time Complexity: O(n)
 Space Complexity: O(1)
